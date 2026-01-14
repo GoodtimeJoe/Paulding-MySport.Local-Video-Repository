@@ -1,0 +1,409 @@
+"https://vcloud.hudl.com/file/broadcast/3460023.m3u8?hfr=1 - Ayersville at Paulding | 2025-26 Girls Basketball | MySports.Live - Jan 15, 2026",
+
+        "https://vcloud.hudl.com/file/broadcast/3460013.m3u8?hfr=1 - Edon at Paulding | 2025-26 Girls Basketball | MySports.Live - Jan 12, 2026",
+
+        "https://vcloud.hudl.com/file/broadcast/3415858.m3u8?hfr=1 - Bluffton at Paulding | 2025-26 Girls Basketball | MySports.Live - Jan 10, 2026",
+
+        "https://vcloud.hudl.com/file/broadcast/3415857.m3u8?hfr=1 - Antwerp at Paulding | 2025-26 Boys Basketball | MySports.Live - Jan 9, 2026",
+
+        "https://vcloud.hudl.com/file/broadcast/3415855.m3u8?hfr=1 - Paulding at Antwerp | 2025-26 Girls Basketball | MySports.Live - Jan 8, 2026",
+
+        "https://vcloud.hudl.com/file/broadcast/3415853.m3u8?hfr=1 - Crestview at Paulding | 2025-26 Girls Basketball | MySports.Live - Jan 6, 2026",
+
+        "https://vcloud.hudl.com/file/broadcast/3415852.m3u8?hfr=1 - Edon at Paulding | 2025-26 Boys Basketball | MySports.Live - Jan 5, 2026",
+
+        "https://vcloud.hudl.com/file/broadcast/3381675.m3u8?hfr=1 - Delphos Jefferson at Paulding | 2025-26 Girls Basketball | MySports.Live - Dec 29, 2025",
+        
+        "https://d2s0txx1aqnj4f.cloudfront.net/playOnPoly/6608373dfcf573738f0b7963/venue_hls/hd_hls/hd_hls.m3u8 - Paulding at Miller City | 2025-26 Boys Basketball | NFHS - Saturday, Dec 27, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/3334837.m3u8?hfr=1 - North Central at Paulding | 2025-26 Boys Basketball | MySports.Live - Dec 22, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/3334828.m3u8?hfr=1 - Ottoville at Paulding | 2025-26 Boys Basketball | MySports.Live - Dec 20, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/3334821.m3u8?hfr=1 - Holgate at Paulding | 2025-26 Girls Basketball | MySports.Live - Dec 20, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/3334813.m3u8?hfr=1 - Paulding at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - Dec 19, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/3334795.m3u8?hfr=1 - Wayne Trace at Paulding | 2025-26 Girls Basketball | MySports.Live - Dec 18, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/3334785.m3u8?hfr=1 - Continental at Paulding | 2025-26 Boys Basketball | MySports.Live - Dec 16, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/3248159.m3u8?hfr=1 - Stryker at Paulding | 2025-26 Boys Basketball | MySports.Live - Dec 13, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/3248127.m3u8?hfr=1 - Montpelier at Paulding | 2025-26 Girls Basketball | MySports.Live - Dec 13, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/3142985.m3u8?hfr=1 - Liberty Center at Paulding | 2025-26 Girls Basketball | MySports.Live - Nov 25, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/3072276.m3u8?hfr=1 - Carey at Paulding | 2025 Football | MySports.Live - Nov 14, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/3022549.m3u8?hfr=1 - Fairview at Paulding | 2025 Football | MySports.Live - Nov 07, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2759921.m3u8?hfr=1 - Antwerp at Paulding | 2025 Football | MySports.Live - Oct 24, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2759869.m3u8?hfr=1 - Hicksville at Paulding | 2025 Football | MySports.Live - Oct 10, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2759859.m3u8?hfr=1 - Paulding at Antwerp | 2025 Volleyball | MySports.Live - Oct 09, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2759849.m3u8?hfr=1 - Continental at Paulding | 2025 Volleyball | MySports.Live - Oct 06, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2759841.m3u8?hfr=1 - Ottoville at Paulding | 2025 Volleyball | MySports.Live - Oct 02, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2759798.m3u8?hfr=1 - Fairview at Paulding | 2025 Football | MySports.Live - Sep 26, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2759572.m3u8?hfr=1 - Ayersville at Paulding | 2025 Football | MySports.Live - Sep 19, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2674590.m3u8?hfr=1 - Paulding at Wayne Trace | 2025 Football | MySports.Live - Sep 12, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2630415.m3u8?hfr=1 - Wayne Trace at Paulding | 2025 Volleyball | MySports.Live - Sep 02, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2629927.m3u8?hfr=1 - Bryan at Paulding | 2025 Volleyball | MySports.Live - Aug 25, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2540424.m3u8?hfr=1 - Swanton at Paulding | 2025 Football | MySports.Live - Aug 22, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2540409.m3u8?hfr=1 - Crestview at Paulding | 2025 Volleyball | MySports.Live - Aug 19, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2151005.m3u8?hfr=1 - Lincolnview at Paulding | 2024-25 Boys Basketball | MySports.Live - Feb 10, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2151004.m3u8?hfr=1 - Delphos Jefferson at Paulding | 2024-25 Girls Basketball | MySports.Live - Feb 10, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2103189.m3u8?hfr=1 - Fairview at Paulding | 2024-25 Boys Basketball | MySports.Live - Feb 07, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2103165.m3u8?hfr=1 - Lincolnview at Paulding | 2024-25 Wrestling | MySports.Live - Feb 06, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2103072.m3u8?hfr=1 - Ottoville at Paulding | 2024-25 Girls Basketball | MySports.Live - Feb 04, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2043789.m3u8?hfr=1 - Continental at Paulding | 2024-25 Girls Basketball | MySports.Live - Feb 01, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2043777.m3u8?hfr=1 - Hicksville at Paulding | 2024-25 Boys Basketball | MySports.Live - Jan 31, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/2025496.m3u8?hfr=1 - Edgerton at Paulding | 2024-25 Girls Basketball | MySports.Live - Jan 23, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/1976206.m3u8?hfr=1 - Delphos Jefferson at Paulding | 2024-25 Boys Basketball | MySports.Live - Jan 18, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/1976201.m3u8?hfr=1 - Ayersville at Paulding | 2024-25 Boys Basketball | MySports.Live - Jan 17, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/1976196.m3u8?hfr=1 - Van Wert at Paulding | 2024-25 Girls Basketball | MySports.Live - Jan 14, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/1920792.m3u8?hfr=1 - Liberty Center at Paulding | 2024-25 Boys Basketball | MySports.Live - Jan 11, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/1920790.m3u8?hfr=1 - Paulding at Antwerp | 2024-25 Boys Basketball | MySports.Live - Jan 10, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/1920789.m3u8?hfr=1 - Antwerp at Paulding | 2024-25 Girls Basketball | MySports.Live - Jan 09, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/1897609.m3u8?hfr=1 - Wauseon at Paulding | 2024-25 Boys Basketball | MySports.Live - Jan 04, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/1897608.m3u8?hfr=1 - Defiance at Paulding | 2024-25 Girls Basketball | MySports.Live - Jan 04, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/1897607.m3u8?hfr=1 - Wayne Trace at Paulding | 2024-25 Boys Basketball | MySports.Live - Jan 03, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/1897606.m3u8?hfr=1 - Paulding at Wayne Trace | 2024-25 Girls Basketball | MySports.Live - Jan 02, 2025",
+
+        "https://vcloud.hudl.com/file/broadcast/1893595.m3u8?hfr=1 - Miller City at Paulding | 2024-25 Boys Basketball | MySports.Live - Dec 28, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1849295.m3u8?hfr=1 - Bluffton at Paulding | 2024-25 Boys Basketball | MySports.Live - Dec 17, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1706842.m3u8?hfr=1 - Pettisville at Paulding | 2024-25 Boys Basketball | MySports.Live - Dec 07, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1706841.m3u8?hfr=1 - Tinora at Paulding | 2024-25 Girls Basketball | MySports.Live - Dec 07, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1706838.m3u8?hfr=1 - Defiance at Paulding | 2024-25 Boys Basketball | MySports.Live - Dec 06, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1706833.m3u8?hfr=1 - Bryan at Paulding | 2024-25 Girls Basketball | MySports.Live - Dec 05, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1706831.m3u8?hfr=1 - Lincolnview at Paulding | 2024-25 Girls Basketball | MySports.Live - Dec 03, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1383346.m3u8?hfr=1 - Paulding at Antwerp | 2024 Football | MySports.Live - Oct 25, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1383338.m3u8?hfr=1 - Tinora at Paulding | 2024 Football | MySports.Live - Oct 18, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1383318.m3u8?hfr=1 - Antwerp at Paulding | 2024 Volleyball | MySports.Live - Oct 10, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1347884.m3u8?hfr=1 - Edgerton at Paulding | 2024 Football | MySports.Live - Oct 04, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1347879.m3u8?hfr=1 - Wauseon at Paulding | 2024 Volleyball | MySports.Live - Sep 30, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1307993.m3u8?hfr=1 - Swanton at Paulding | 2024 Volleyball | MySports.Live - Sep 19, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1286410.m3u8?hfr=1 - Wayne Trace at Paulding | 2024 Football | MySports.Live - Sep 13, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1286402.m3u8?hfr=1 - Ayersville at Paulding | 2024 Volleyball | MySports.Live - Sep 10, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1282712.m3u8?hfr=1 - Delphos Jefferson vs Paulding | 2024 Football | MySports.Live - Sep 06, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1237946.m3u8?hfr=1 - Paulding at Wayne Trace | 2024 Volleyball | MySports.Live - Sep 03, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1243434.m3u8?hfr=1 - North Central at Paulding | 2024 Football | MySports.Live - Aug 30, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1173973.m3u8?hfr=1 - North Central at Paulding | 2024 Football | MySports.Live - Aug 30, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1173964.m3u8?hfr=1 - Delphos Jefferson at Paulding | 2024 Volleyball | MySports.Live - Aug 29, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1084396.m3u8?hfr=1 - Antwerp at Paulding | 2024 Softball | MySports.Live - May 13, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1068681.m3u8?hfr=1 - Antwerp at Paulding | 2024 Baseball | MySports.Live - Apr 27, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1039428.m3u8?hfr=1 - Wayne Trace at Paulding | 2024 Baseball | MySports.Live - Apr 25, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/1039431.m3u8?hfr=1 - Wayne Trace at Paulding | 2024 Softball | MySports.Live - Apr 25, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/978030.m3u8?hfr=1 - Bluffton at Paulding | 2023-24 Girls Basketball | MySports.Live - Feb 22, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/938970.m3u8?hfr=1 - Bryan at Paulding | 2023-24 Boys Basketball | MySports.Live - Feb 17, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/938963.m3u8?hfr=1 - Paulding at Wayne Trace | 2023-24 Boys Basketball | MySports.Live - Feb 16, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/938946.m3u8?hfr=1 - Wayne Trace at Paulding | 2023-24 Girls Basketball | MySports.Live - Feb 15, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/938929.m3u8?hfr=1 - Liberty Center at Paulding | 2023-24 Girls Basketball | MySports.Live - Feb 10, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/938919.m3u8?hfr=1 - Tinora at Paulding | 2023-24 Boys Basketball | MySports.Live - Feb 09, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/953282.m3u8?hfr=1 - Hicksville and Fairview at Paulding | 2023-24 Wrestling | MySports.Live - Feb 08, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/929982.m3u8?hfr=1 - Ottoville at Paulding | 2023-24 Boys Basketball | MySports.Live - Feb 03, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/929959.m3u8?hfr=1 - Fairview at Paulding | 2023-24 Girls Basketball | MySports.Live - Feb 01, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/929946.m3u8?hfr=1 - Parkway at Paulding | 2023-24 Girls Basketball | MySports.Live - Jan 30, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/906218.m3u8?hfr=1 - Montpelier at Paulding | 2023-24 Boys Basketball | MySports.Live - Jan 27, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/906013.m3u8?hfr=1 - Hicksville at Paulding | 2023-24 Girls Basketball | MySports.Live - Jan 25, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/890143.m3u8?hfr=1 - Edgerton at Paulding | 2023-24 Boys Basketball | MySports.Live - Jan 19, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/879774.m3u8?hfr=1 - Bluffton at Paulding | 2023-24 Girls Basketball | MySports.Live - Jan 13, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/879766.m3u8?hfr=1 - Ayersville at Paulding | 2023-24 Girls Basketball | MySports.Live - Jan 11, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/879761.m3u8?hfr=1 - Delphos St. John's at Paulding | 2023-24 Girls Basketball | MySports.Live - Jan 09, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/845661.m3u8?hfr=1 - Antwerp at Paulding | 2023-24 Boys Basketball | MySports.Live - Jan 05, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/845659.m3u8?hfr=1 - Paulding at Antwerp | 2023-24 Girls Basketball | MySports.Live - Jan 04, 2024",
+
+        "https://vcloud.hudl.com/file/broadcast/838976.m3u8?hfr=1 - Stryker at Paulding | 2023-24 Boys Basketball | MySports.Live - Dec 22, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/838897.m3u8?hfr=1 - Delphos Jefferson at Paulding | 2023-24 Girls Basketball | MySports.Live - Dec 21, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/838875.m3u8?hfr=1 - Holgate at Paulding | 2023-24 Girls Basketball | MySports.Live - Dec 19, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/838839.m3u8?hfr=1 - Montpelier at Paulding | 2023-24 Girls Basketball | MySports.Live - Dec 16, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/838822.m3u8?hfr=1 - North Central at Paulding | 2023-24 Boys Basketball | MySports.Live - Dec 15, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/784726.m3u8?hfr=1 - Edon at Paulding | 2023-24 Boys Basketball | MySports.Live - Dec 02, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/784722.m3u8?hfr=1 - Edon at Paulding | 2023-24 Girls Basketball | MySports.Live - Dec 02, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/784714.m3u8?hfr=1 - Continental at Paulding | 2023-24 Boys Basketball | MySports.Live - Dec 01, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/696180.m3u8?hfr=1 - Paulding at Wayne Trace | 2023 Football | MySports.Live - Oct 20, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/696176.m3u8?hfr=1 - Antwerp at Paulding | 2023 Football | MySports.Live - Oct 13, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/696174.m3u8?hfr=1 - Wayne Trace at Paulding | 2023 Volleyball | MySports.Live - Oct 12, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/685659.m3u8?hfr=1 - Ottoville at Paulding | 2023 Volleyball | MySports.Live - Oct 05, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/677819.m3u8?hfr=1 - Hicksville at Paulding | 2023 Football | MySports.Live - Sep 29, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/655186.m3u8?hfr=1 - Edgerton at Paulding | 2023 Volleyball | MySports.Live - Sep 19, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/654733.m3u8?hfr=1 - Fairview at Paulding | 2023 Football | MySports.Live - Sep 15, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/629200.m3u8?hfr=1 - Ayersville at Paulding | 2023 Football | MySports.Live - Sep 08, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/629196.m3u8?hfr=1 - Bryan at Paulding | 2023 Volleyball | MySports.Live - Aug 28, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/606459.m3u8?hfr=1 - Crestview at Paulding | 2023 Volleyball | MySports.Live - Aug 22, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/606457.m3u8?hfr=1 - Swanton at Paulding | 2023 Football | MySports.Live - Aug 18, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/507995.m3u8?hfr=1 - Miller City at Paulding | 2022-23 Boys Basketball | MySports.Live - Feb 16, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/507994.m3u8?hfr=1 - Wayne Trace at Paulding | 2022-23 Boys Basketball | MySports.Live - Feb 10, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/508009.m3u8?hfr=1 - Paulding at Wayne Trace | 2022-23 Girls Basketball | MySports.Live - Feb 09, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/508001.m3u8?hfr=1 - Defiance at Paulding | 2022-23 Girls Basketball | MySports.Live - Feb 07, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/507993.m3u8?hfr=1 - Lincolnview at Paulding | 2022-23 Boys Basketball | MySports.Live - Feb 04, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/507999.m3u8?hfr=1 - Tinora at Paulding | 2022-23 Girls Basketball | MySports.Live - Feb 02, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/507998.m3u8?hfr=1 - Ottoville at Paulding | 2022-23 Girls Basketball | MySports.Live - Jan 31, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/507996.m3u8?hfr=1 - Continental at Paulding | 2022-23 Girls Basketball | MySports.Live - Jan 28, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/507992.m3u8?hfr=1 - Fairview at Paulding | 2022-23 Boys Basketball | MySports.Live - Jan 27, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/502893.m3u8?hfr=1 - Hicksville at Paulding | 2022-23 Boys Basketball | MySports.Live - Jan 20, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/502890.m3u8?hfr=1 - Delta at Paulding | 2022-23 Girls Basketball | MySports.Live - Jan 17, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/496492.m3u8?hfr=1 - Delphos Jefferson at Paulding | 2022-23 Boys Basketball | MySports.Live - Jan 14, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/496473.m3u8?hfr=1 - Edgerton at Paulding | 2022-23 Girls Basketball | MySports.Live - Jan 12, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/496472.m3u8?hfr=1 - Van Wert at Paulding | 2022-23 Girls Basketball | MySports.Live - Jan 10, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/489348.m3u8?hfr=1 - Liberty Center at Paulding | 2022-23 Boys Basketball | MySports.Live - Jan 07, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/489347.m3u8?hfr=1 - Ayersville at Paulding | 2022-23 Boys Basketball | MySports.Live - Jan 06, 2023",
+
+        "https://vcloud.hudl.com/file/broadcast/489344.m3u8?hfr=1 - Wauseon at Paulding | 2022-23 Boys Basketball | MySports.Live - Dec 29, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/482767.m3u8?hfr=1 - Paulding at Antwerp | 2022-23 Boys Basketball | MySports.Live - Dec 16, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/482766.m3u8?hfr=1 - Antwerp at Paulding | 2022-23 Girls Basketball | MySports.Live - Dec 15, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/473127.m3u8?hfr=1 - Pettisville at Paulding | 2022-23 Boys Basketball | MySports.Live - Dec 03, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/473126.m3u8?hfr=1 - Defiance at Paulding | 2022-23 Boys Basketball | MySports.Live - Dec 02, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/473125.m3u8?hfr=1 - Bryan at Paulding | 2022-23 Girls Basketball | MySports.Live - Dec 01, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/473121.m3u8?hfr=1 - Lincolnview at Paulding | 2022-23 Girls Basketball | MySports.Live - Nov 29, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/473119.m3u8?hfr=1 - Lima Bath at Paulding | 2022-23 Girls Basketball | MySports.Live - Nov 28, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/469819.m3u8?hfr=1 - Bluffton at Paulding | 2022-23 Boys Basketball | MySports.Live - Nov 26, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/443683.m3u8?hfr=1 - Wayne Trace at Paulding | 2022 Football | MySports.Live - Oct 21, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/438955.m3u8?hfr=1 - Paulding at Antwerp | 2022 Football | MySports.Live - Oct 14, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/438954.m3u8?hfr=1 - Paulding at Wayne Trace | 2022 Volleyball | MySports.Live - Oct 13, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/438953.m3u8?hfr=1 - Antwerp at Paulding | 2022 Volleyball | MySports.Live - Oct 11, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/435323.m3u8?hfr=1 - Tinora at Paulding | 2022 Football | MySports.Live - Oct 07, 2022", 
+
+        "https://vcloud.hudl.com/file/broadcast/431389.m3u8?hfr=1 - Edgerton at Paulding | 2022 Football | MySports.Live - Sep 23, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/424199.m3u8?hfr=1 - Defiance at Paulding | 2022 Volleyball | MySports.Live - Sep 12, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/417719.m3u8?hfr=1 - Delta at Paulding | 2022 Football | MySports.Live - Sep 02, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/412919.m3u8?hfr=1 - Spencerville at Paulding | 2022 Football | MySports.Live - Aug 26, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/412917.m3u8?hfr=1 - Paulding at Crestview | 2022 Volleyball | MySports.Live - Aug 23, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/412915.m3u8?hfr=1 - Van Wert at Paulding | 2022 Volleyball | MySports.Live - Aug 22, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/356272.m3u8?hfr=1 - Bryan at Paulding | 2021-22 Boys Basketball | MySports.Live - Feb 12, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/356271.m3u8?hfr=1 - Wayne Trace at Paulding | 2021-22 Girls Basketball | MySports.Live - Feb 12, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/356270.m3u8?hfr=1 - Antwerp at Paulding | 2021-22 Boys Basketball | MySports.Live - Feb 11, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/356268.m3u8?hfr=1 - Paulding at Antwerp | 2021-22 Girls Basketball | MySports.Live - Feb 10, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/352282.m3u8?hfr=1 - Paulding at Wayne Trace | 2021-22 Boys Basketball | MySports.Live - Feb 04, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/348663.m3u8?hfr=1 - Tinora at Paulding | 2021-22 Boys Basketball | MySports.Live - Jan 28, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/348645.m3u8?hfr=1 - Parkway at Paulding | 2021-22 Girls Basketball | MySports.Live - Jan 25, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/342336.m3u8?hfr=1 - Hicksville at Paulding | 2021-22 Girls Basketball | MySports.Live - Jan 13, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/338470.m3u8?hfr=1 - Bluffton at Paulding | 2021-22 Girls Basketball | MySports.Live - Jan 08, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/338469.m3u8?hfr=1 - Edgerton at Paulding | 2021-22 Boys Basketball | MySports.Live - Jan 07, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/338466.m3u8?hfr=1 - Delphos St.John's at Paulding | 2021-22 Girls Basketball | MySports.Live - Jan 04, 2022",
+
+        "https://vcloud.hudl.com/file/broadcast/338463.m3u8?hfr=1 - Tinora vs Paulding | 2021 State Bank Holiday Classic | MySports.Live - Dec 28, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/338462.m3u8?hfr=1 - Paulding vs Wauseon | 2021 Boys Basketball | MySports.Live - Dec 27, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/334810.m3u8?hfr=1 - Cardinal Stritch at Paulding | 2021-22 Boys Basketball | MySports.Live - Dec 21, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/334808.m3u8?hfr=1 - Ottoville at Paulding | 2021-22 Boys Basketball | MySports.Live - Dec 18, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/334806.m3u8?hfr=1 - Ayersville at Paulding | 2021-22 Girls Basketball | MySports.Live - Dec 16, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/334804.m3u8?hfr=1 - Holgate at Paulding | 2021-22 Girls Basketball | MySports.Live - Dec 14, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/334803.m3u8?hfr=1 - Montpelier at Paulding | 2021-22 Girls Basketball | MySports.Live - Dec 13, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/332051.m3u8?hfr=1 - Maumee Valley Country Day at Paulding | 2021-22 Boys Basketball | MySports.Live - Dec 10, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/324656.m3u8?hfr=1 - Continental at Paulding | 2021-22 Boys Basketball | MySports.Live - Nov 26, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/324654.m3u8?hfr=1 - Delphos Jefferson at Paulding | 2021-22 Girls Basketball | MySports.Live - Nov 23, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/324652.m3u8?hfr=1 - Liberty Center at Paulding | 2021-22 Girls Basketball | MySports.Live - Nov 19, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/289426.m3u8?hfr=1 - Ayersville at Paulding | 2021 Football | MySports.Live - Oct 22, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/289424.m3u8?hfr=1 - Paulding at Wayne Trace | 2021 Football | MySports.Live - Oct 15, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/289418.m3u8?hfr=1 - Wayne Trace at Paulding | 2021 Volleyball | MySports.Live - Oct 12, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/289416.m3u8?hfr=1 - Antwerp at Paulding | 2021 Football | MySports.Live - Oct 08, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/289415.m3u8?hfr=1 - Ottoville at Paulding | 2021 Volleyball | MySports.Live - Oct 07, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/289414.m3u8?hfr=1 - Paulding at Antwerp | 2021 Volleyball | MySports.Live - Oct 05, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/289408.m3u8?hfr=1 - Tinora at Paulding | 2021 Volleyball | MySports.Live - Sep 28, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/289405.m3u8?hfr=1 - Hicksville at Paulding | 2021 Football | MySports.Live - Sep 24, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/289398.m3u8?hfr=1 - Edgerton at Paulding | 2021 Volleyball | MySports.Live - Sep 14, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/289391.m3u8?hfr=1 - Fairview at Paulding | 2021 Football | MySports.Live - Sep 10, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/289028.m3u8?hfr=1 - Crestview at Paulding | 2021 Volleyball | MySports.Live - Aug 24, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/283971.m3u8?hfr=1 - Arlington at Paulding | 2021 Football | MySports.Live - Aug 20, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/264064.m3u8?hfr=1 - Bishop Luers at Paulding | 2021 Boys Basketball | MySports.Live - Feb 18, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/257698.m3u8?hfr=1 - Crestview at Paulding | 2021 Boys Basketball | MySports.Live - Feb 12, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/257696.m3u8?hfr=1 - Defiance at Paulding | 2020-21 Girls Basketball | MySports.Live - Feb 09, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/257694.m3u8?hfr=1 - Parkway at Paulding | 2021 Boys Basketball | MySports.Live - Feb 08, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/246932.m3u8?hfr=1 - Continental at Paulding | 2020-21 Girls Basketball | MySports.Live - Jan 30, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/246931.m3u8?hfr=1 - Ada at Paulding | 2020-21 Girls Basketball | MySports.Live - Jan 28, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/245131.m3u8?hfr=1 - Montpelier at Paulding | 2021 Boys Basketball | MySports.Live - Jan 23, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/245130.m3u8?hfr=1 - Delphos Jefferson at Paulding | 2021 Boys Basketball | MySports.Live - Jan 22, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/243558.m3u8?hfr=1 - Tinora at Paulding | 2020-21 Girls Basketball | MySports.Live - Jan 19, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/239834.m3u8?hfr=1 - Ayersville at Paulding | 2021 Boys Basketball | MySports.Live - Jan 16, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/239830.m3u8?hfr=1 - Allen East at Paulding | 2020-21 Girls Basketball | MySports.Live - Jan 14, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/238199.m3u8?hfr=1 - Van Wert at Paulding | 2020-21 Girls Basketball | MySports.Live - Jan 12, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/238198.m3u8?hfr=1 - Ayersville at Paulding | 2020-21 Girls Basketball | MySports.Live - Jan 11, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/237106.m3u8?hfr=1 - Bluffton at Paulding | 2021 Boys Basketball | MySports.Live - Jan 08, 2021",
+
+        "https://vcloud.hudl.com/file/broadcast/225768.m3u8?hfr=1 - Paulding at Wayne Trace | 2020 Boys Basketball | MySports.Live - Dec 22, 2020",
+
+        "https://vcloud.hudl.com/file/broadcast/223263.m3u8?hfr=1 - Miller City at Paulding | 2020 Boys Basketball | MySports.Live - Dec 19, 2020",
+
+        "https://vcloud.hudl.com/file/broadcast/221584.m3u8?hfr=1 - Columbus Grove at Paulding | 2020-21 Girls Basketball | MySports.Live - Dec 17, 2020",
+
+        "https://vcloud.hudl.com/file/broadcast/217953.m3u8?hfr=1 - Spencerville at Paulding | 2020 Boys Basketball | MySports.Live - Dec 11, 2020",
+
+        "https://vcloud.hudl.com/file/broadcast/217952.m3u8?hfr=1 - Paulding at Wayne Trace | 2020-21 Girls Basketball | MySports.Live - Dec 08, 2020",
+
+        "https://vcloud.hudl.com/file/broadcast/214066.m3u8?hfr=1 - Defiance at Paulding | 2020-21 Boys Basketball | MySports.Live - Dec 04, 2020",
+
+        "https://vcloud.hudl.com/file/broadcast/214065.m3u8?hfr=1 - Lincolnview at Paulding | 2020-21 Girls Basketball | MySports.Live - Dec 03, 2020",
+
+        "https://vcloud.hudl.com/file/broadcast/211561.m3u8?hfr=1 - Paulding at Antwerp | 2020-21 Boys Basketball | MySports.Live - Nov 28, 2020",
+
+        "https://vcloud.hudl.com/file/broadcast/211560.m3u8?hfr=1 - Paulding at Antwerp | 2020-21 Girls Basketball | MySports.Live - Nov 24, 2020",
+
+        "https://vcloud.hudl.com/file/broadcast/211559.m3u8?hfr=1 - Edgerton at Paulding | 2020-21 Girls Basketball | MySports.Live - Nov 20, 2020",
