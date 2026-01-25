@@ -1,3 +1,7 @@
+"https://vcloud.hudl.com/file/broadcast/3551922.m3u8?hfr=1 - Hicksville at Paulding | 2025-26 Girls Basketball | MySports.Live - Jan 29, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3551884.m3u8?hfr=1 - Parkway at Paulding | 2025-26 Girls Basketball | MySports.Live - Jan 27, 2026",
+
 "https://vcloud.hudl.com/file/broadcast/3501843.m3u8?hfr=1 - Montpelier at Paulding | 2025-26 Boys Basketball | MySports.Live - Jan 24, 2026",
 
         "https://vcloud.hudl.com/file/broadcast/3501832.m3u8?hfr=1 - Edgerton at Paulding | 2025-26 Boys Basketball | MySports.Live - Jan 23, 2026",
@@ -412,3 +416,4 @@
 
 
         "https://vcloud.hudl.com/file/broadcast/211559.m3u8?hfr=1 - Edgerton at Paulding | 2020-21 Girls Basketball | MySports.Live - Nov 20, 2020",
+
