@@ -2,7 +2,9 @@
 
         "https://vcloud.hudl.com/file/broadcast/3582766.m3u8?hfr=1 - Tinora at Paulding | 2025-26 Boys Basketball | MySports.Live - Feb 13, 2026",
 
-        "https://vcloud.hudl.com/file/broadcast/3582690.m3u8?hfr=1 - Antwerp at Paulding | 2025-26 Boys Wrestling | MySports.Live - Feb 12, 2026,
+        "https://vcloud.hudl.com/file/broadcast/3582690.m3u8?hfr=1 - Antwerp at Paulding | 2025-26 Boys Wrestling | MySports.Live - Feb 12, 2026",
+
+        "https://vcloud.hudl.com/file/broadcast/3636963.m3u8?hfr=1 - Parkview at Paulding | 2025-26 Girls Basketball | MySports.Live - Feb 10, 2026",
 
         "https://vcloud.hudl.com/file/broadcast/3582643.m3u8?hfr=1 - Fairview at Paulding | 2025-26 Girls Basketball | MySports.Live - Feb 5, 2026",
 
@@ -424,6 +426,7 @@
 
 
         "https://vcloud.hudl.com/file/broadcast/211559.m3u8?hfr=1 - Edgerton at Paulding | 2020-21 Girls Basketball | MySports.Live - Nov 20, 2020",
+
 
 
 
