@@ -332,7 +332,7 @@
 
         "https://vcloud.hudl.com/file/broadcast/338466.m3u8?hfr=1 - Delphos St.John's at Paulding | 2021-22 Girls Basketball | MySports.Live - Jan 04, 2022",
 
-        "https://vcloud.hudl.com/file/broadcast/338463.m3u8?hfr=1 - Tinora vs Paulding | 2021 State Bank Holiday Classic | MySports.Live - Dec 28, 2021",
+        "https://vcloud.hudl.com/file/broadcast/338463.m3u8?hfr=1 - Tinora vs Paulding | 2021 Boys Basketball | MySports.Live - Dec 28, 2021",
 
         "https://vcloud.hudl.com/file/broadcast/338462.m3u8?hfr=1 - Paulding vs Wauseon | 2021 Boys Basketball | MySports.Live - Dec 27, 2021",
 
@@ -426,6 +426,7 @@
 
 
         "https://vcloud.hudl.com/file/broadcast/211559.m3u8?hfr=1 - Edgerton at Paulding | 2020-21 Girls Basketball | MySports.Live - Nov 20, 2020",
+
 
 
 
